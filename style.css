@@ -1,0 +1,16 @@
+body{
+    background-color: deepskyblue;
+    height: 400px;
+    margin: 10% 0 10% 0;
+}
+.navigation{
+    margin-top: 1%;
+    padding: 5% 2%;
+    width: 20%;
+}
+.header-name{
+    font-size: 40px;
+    font-family: Arial;
+    color: #fff;
+    
+}
